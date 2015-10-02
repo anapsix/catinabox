@@ -53,8 +53,12 @@ case ${NUM:$i} in
    dead
    exit 1
  ;;
- *)
+ [026])
   alive1
+  exit 0
+ ;;
+ [48])
+  alive2
   exit 0
  ;;
 esac
