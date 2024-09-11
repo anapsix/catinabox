@@ -1,8 +1,10 @@
 # [Schrodinger's] cat in a box
 
-you are going to have to open the box to find out
+You are going to have to open the box to find out.
 
-[![](https://badge.imagelayers.io/anapsix/catinabox:latest.svg)](https://imagelayers.io/?images=anapsix/catinabox:latest)
+[![Docker Pulls](https://img.shields.io/docker/pulls/anapsix/catinabox)][hub]
+
+[hub]: https://hub.docker.com/repository/docker/anapsix/catinabox
 
 ## Usage
 
@@ -29,4 +31,3 @@ you are going to have to open the box to find out
 
 
 ```
-
